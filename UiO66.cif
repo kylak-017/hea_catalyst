@@ -1,0 +1,266 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_Structure_1
+_audit_block_doi                 10.5517/ccx3spg
+_database_code_depnum_ccdc_archive 'CCDC 837796'
+loop_
+_citation_id
+_citation_doi
+_citation_year
+1 10.1021/cm1022882 2011
+_audit_update_record             
+;
+2011-08-03 deposited with the CCDC.	2025-11-18 downloaded from the CCDC.
+;
+_audit_creation_method           'Created with Diamond (www.crystalimpact.com)'
+_audit_creation_date             08-03-28
+_chemical_formula_sum            'Zr24 O128 C192'
+_chemical_formula_weight         6543.411
+_cell_length_a                   20.7430
+_cell_length_b                   20.7430
+_cell_length_c                   20.7430
+_cell_angle_alpha                90.000
+_cell_angle_beta                 90.000
+_cell_angle_gamma                90.000
+_cell_volume                     8925.1
+_symmetry_int_tables_number      225
+_symmetry_space_group_name_H-M   'F m -3 m'
+_symmetry_space_group_name_Hall  -F_4_2_3
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 '-y, x, z'
+3 '-x, -y, z'
+4 'y, -x, z'
+5 'x, -z, y'
+6 'x, -y, -z'
+7 'x, z, -y'
+8 'z, y, -x'
+9 '-x, y, -z'
+10 '-z, y, x'
+11 'z, x, y'
+12 'y, z, x'
+13 '-y, -z, x'
+14 'z, -x, -y'
+15 '-y, z, -x'
+16 '-z, -x, y'
+17 '-z, x, -y'
+18 'y, -z, -x'
+19 'y, x, -z'
+20 '-y, -x, -z'
+21 '-x, z, y'
+22 '-x, -z, -y'
+23 'z, -y, x'
+24 '-z, -y, -x'
+25 '-x, -y, -z'
+26 'y, -x, -z'
+27 'x, y, -z'
+28 '-y, x, -z'
+29 '-x, z, -y'
+30 '-x, y, z'
+31 '-x, -z, y'
+32 '-z, -y, x'
+33 'x, -y, z'
+34 'z, -y, -x'
+35 '-z, -x, -y'
+36 '-y, -z, -x'
+37 'y, z, -x'
+38 '-z, x, y'
+39 'y, -z, x'
+40 'z, x, -y'
+41 'z, -x, y'
+42 '-y, z, x'
+43 '-y, -x, z'
+44 'y, x, z'
+45 'x, -z, -y'
+46 'x, z, y'
+47 '-z, y, -x'
+48 'z, y, x'
+49 'x, 0.500+y, 0.500+z'
+50 '-y, 0.500+x, 0.500+z'
+51 '-x, 0.500-y, 0.500+z'
+52 'y, 0.500-x, 0.500+z'
+53 'x, 0.500-z, 0.500+y'
+54 'x, 0.500-y, 0.500-z'
+55 'x, 0.500+z, 0.500-y'
+56 'z, 0.500+y, 0.500-x'
+57 '-x, 0.500+y, 0.500-z'
+58 '-z, 0.500+y, 0.500+x'
+59 'z, 0.500+x, 0.500+y'
+60 'y, 0.500+z, 0.500+x'
+61 '-y, 0.500-z, 0.500+x'
+62 'z, 0.500-x, 0.500-y'
+63 '-y, 0.500+z, 0.500-x'
+64 '-z, 0.500-x, 0.500+y'
+65 '-z, 0.500+x, 0.500-y'
+66 'y, 0.500-z, 0.500-x'
+67 'y, 0.500+x, 0.500-z'
+68 '-y, 0.500-x, 0.500-z'
+69 '-x, 0.500+z, 0.500+y'
+70 '-x, 0.500-z, 0.500-y'
+71 'z, 0.500-y, 0.500+x'
+72 '-z, 0.500-y, 0.500-x'
+73 '-x, 0.500-y, 0.500-z'
+74 'y, 0.500-x, 0.500-z'
+75 'x, 0.500+y, 0.500-z'
+76 '-y, 0.500+x, 0.500-z'
+77 '-x, 0.500+z, 0.500-y'
+78 '-x, 0.500+y, 0.500+z'
+79 '-x, 0.500-z, 0.500+y'
+80 '-z, 0.500-y, 0.500+x'
+81 'x, 0.500-y, 0.500+z'
+82 'z, 0.500-y, 0.500-x'
+83 '-z, 0.500-x, 0.500-y'
+84 '-y, 0.500-z, 0.500-x'
+85 'y, 0.500+z, 0.500-x'
+86 '-z, 0.500+x, 0.500+y'
+87 'y, 0.500-z, 0.500+x'
+88 'z, 0.500+x, 0.500-y'
+89 'z, 0.500-x, 0.500+y'
+90 '-y, 0.500+z, 0.500+x'
+91 '-y, 0.500-x, 0.500+z'
+92 'y, 0.500+x, 0.500+z'
+93 'x, 0.500-z, 0.500-y'
+94 'x, 0.500+z, 0.500+y'
+95 '-z, 0.500+y, 0.500-x'
+96 'z, 0.500+y, 0.500+x'
+97 '0.500+x, y, 0.500+z'
+98 '0.500-y, x, 0.500+z'
+99 '0.500-x, -y, 0.500+z'
+100 '0.500+y, -x, 0.500+z'
+101 '0.500+x, -z, 0.500+y'
+102 '0.500+x, -y, 0.500-z'
+103 '0.500+x, z, 0.500-y'
+104 '0.500+z, y, 0.500-x'
+105 '0.500-x, y, 0.500-z'
+106 '0.500-z, y, 0.500+x'
+107 '0.500+z, x, 0.500+y'
+108 '0.500+y, z, 0.500+x'
+109 '0.500-y, -z, 0.500+x'
+110 '0.500+z, -x, 0.500-y'
+111 '0.500-y, z, 0.500-x'
+112 '0.500-z, -x, 0.500+y'
+113 '0.500-z, x, 0.500-y'
+114 '0.500+y, -z, 0.500-x'
+115 '0.500+y, x, 0.500-z'
+116 '0.500-y, -x, 0.500-z'
+117 '0.500-x, z, 0.500+y'
+118 '0.500-x, -z, 0.500-y'
+119 '0.500+z, -y, 0.500+x'
+120 '0.500-z, -y, 0.500-x'
+121 '0.500-x, -y, 0.500-z'
+122 '0.500+y, -x, 0.500-z'
+123 '0.500+x, y, 0.500-z'
+124 '0.500-y, x, 0.500-z'
+125 '0.500-x, z, 0.500-y'
+126 '0.500-x, y, 0.500+z'
+127 '0.500-x, -z, 0.500+y'
+128 '0.500-z, -y, 0.500+x'
+129 '0.500+x, -y, 0.500+z'
+130 '0.500+z, -y, 0.500-x'
+131 '0.500-z, -x, 0.500-y'
+132 '0.500-y, -z, 0.500-x'
+133 '0.500+y, z, 0.500-x'
+134 '0.500-z, x, 0.500+y'
+135 '0.500+y, -z, 0.500+x'
+136 '0.500+z, x, 0.500-y'
+137 '0.500+z, -x, 0.500+y'
+138 '0.500-y, z, 0.500+x'
+139 '0.500-y, -x, 0.500+z'
+140 '0.500+y, x, 0.500+z'
+141 '0.500+x, -z, 0.500-y'
+142 '0.500+x, z, 0.500+y'
+143 '0.500-z, y, 0.500-x'
+144 '0.500+z, y, 0.500+x'
+145 '0.500+x, 0.500+y, z'
+146 '0.500-y, 0.500+x, z'
+147 '0.500-x, 0.500-y, z'
+148 '0.500+y, 0.500-x, z'
+149 '0.500+x, 0.500-z, y'
+150 '0.500+x, 0.500-y, -z'
+151 '0.500+x, 0.500+z, -y'
+152 '0.500+z, 0.500+y, -x'
+153 '0.500-x, 0.500+y, -z'
+154 '0.500-z, 0.500+y, x'
+155 '0.500+z, 0.500+x, y'
+156 '0.500+y, 0.500+z, x'
+157 '0.500-y, 0.500-z, x'
+158 '0.500+z, 0.500-x, -y'
+159 '0.500-y, 0.500+z, -x'
+160 '0.500-z, 0.500-x, y'
+161 '0.500-z, 0.500+x, -y'
+162 '0.500+y, 0.500-z, -x'
+163 '0.500+y, 0.500+x, -z'
+164 '0.500-y, 0.500-x, -z'
+165 '0.500-x, 0.500+z, y'
+166 '0.500-x, 0.500-z, -y'
+167 '0.500+z, 0.500-y, x'
+168 '0.500-z, 0.500-y, -x'
+169 '0.500-x, 0.500-y, -z'
+170 '0.500+y, 0.500-x, -z'
+171 '0.500+x, 0.500+y, -z'
+172 '0.500-y, 0.500+x, -z'
+173 '0.500-x, 0.500+z, -y'
+174 '0.500-x, 0.500+y, z'
+175 '0.500-x, 0.500-z, y'
+176 '0.500-z, 0.500-y, x'
+177 '0.500+x, 0.500-y, z'
+178 '0.500+z, 0.500-y, -x'
+179 '0.500-z, 0.500-x, -y'
+180 '0.500-y, 0.500-z, -x'
+181 '0.500+y, 0.500+z, -x'
+182 '0.500-z, 0.500+x, y'
+183 '0.500+y, 0.500-z, x'
+184 '0.500+z, 0.500+x, -y'
+185 '0.500+z, 0.500-x, y'
+186 '0.500-y, 0.500+z, x'
+187 '0.500-y, 0.500-x, z'
+188 '0.500+y, 0.500+x, z'
+189 '0.500+x, 0.500-z, -y'
+190 '0.500+x, 0.500+z, y'
+191 '0.500-z, 0.500+y, -x'
+192 '0.500+z, 0.500+y, x'
+
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+_atom_type_radius_bond
+Zr ? 1.200
+O ? 1.200
+C ? 1.200
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_attached_hydrogens
+_atom_site_calc_flag
+_atom_site_thermal_displace_type
+_atom_site_u_iso_or_equiv
+Zr Zr 0.1204 0.0000 0.0000 1.000 24 e ? d ? ?
+O1 O 0.1726 0.0000 0.0960 1.000 96 j ? d ? ?
+O2 O 0.0561 -0.0561 -0.0561 1.000 32 f ? d ? ?
+C11 C 0.1473 0.0000 -0.1473 1.000 48 h ? d ? ?
+C12 C 0.2019 0.0000 0.2019 1.000 48 h ? d ? ?
+C13 C 0.2643 0.0000 0.1841 1.000 96 j ? d ? ?
+
