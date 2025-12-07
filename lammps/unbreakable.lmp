@@ -1,0 +1,22 @@
+# LAMMPS Input File
+# Licensed under CC BY 4.0
+# A Set of Tutorials for the LAMMPS Simulation Package (LiveCoMS, 2025)
+# By Simon Gravelle, Cecilia M. S. Alvares, Jacob R. Gissinger, and Axel Kohlmeyer
+# Please cite doi.org/10.33011/livecoms.6.1.3037
+# Find more on GitHub: https://github.com/lammpstutorials
+
+units real
+atom_style molecular
+boundary f f f
+
+pair_style lj/cut 14.0
+bond_style harmonic
+angle_style harmonic
+dihedral_style opls
+improper_style harmonic
+special_bonds lj 0.0 0.0 0.5
+
+read_data unbreakable.data
+include unbreakable.inc
+
+run 0 post no
