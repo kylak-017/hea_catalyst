@@ -1,0 +1,43 @@
+                      Formula  Elements_N  dS_mix/R   VEC  Delta_r (%)  dH_mix (kJ/mol)  d_band_center (eV)
+  Cu40 Ni20 Co5 Mn5 Zn20 Sn10           6      1.54 11.00         4.63            -0.43              -3.424
+ Cu40 Ni15 Co10 Mn5 Zn20 Sn10           6      1.58 10.95         4.59            -0.38              -3.418
+ Cu40 Ni10 Co15 Mn5 Zn20 Sn10           6      1.58 10.90         4.56            -0.33              -3.412
+  Cu40 Ni5 Co20 Mn5 Zn20 Sn10           6      1.54 10.85         4.52            -0.28              -3.407
+ Cu40 Ni15 Co5 Mn10 Zn20 Sn10           6      1.58 10.85         4.54            -0.96              -3.400
+Cu40 Ni10 Co10 Mn10 Zn20 Sn10           6      1.61 10.80         4.50            -0.88              -3.394
+ Cu40 Ni5 Co15 Mn10 Zn20 Sn10           6      1.58 10.75         4.46            -0.80              -3.388
+ Cu40 Ni10 Co5 Mn15 Zn20 Sn10           6      1.58 10.70         4.44            -1.33              -3.376
+ Cu40 Ni5 Co10 Mn15 Zn20 Sn10           6      1.58 10.65         4.40            -1.22              -3.370
+     Cu35 Ni20 Co15 Zn20 Sn10           5      1.53 11.00         4.75             0.22              -3.368
+
+
+
+Target Composition : Cu40Ni20Co5Mn5Zn20Sn10
+Predicted d-band center : -3.437 eV
+
+Target Composition : Cu40Ni15Co10Mn5Zn20Sn10
+Predicted d-band center : -3.356 eV
+
+Target Composition : Cu40Ni10Co15Mn5Zn20Sn10
+Predicted d-band center : -3.342 eV
+
+Target Composition : Cu40Ni5Co20Mn5Zn20Sn10
+Predicted d-band center : -3.302 eV
+
+Target Composition : Cu40Ni15Co5Mn10Zn20Sn10
+Predicted d-band center : -3.295 eV
+
+Target Composition : Cu40Ni10Co10Mn10Zn20Sn10
+Predicted d-band center : -3.281 eV
+
+Target Composition : Cu40Ni5Co15Mn10Zn20Sn10
+Predicted d-band center : -3.282 eV
+
+Target Composition : Cu40Ni10Co5Mn15Zn20Sn10
+Predicted d-band center : -3.263 eV
+
+Target Composition : Cu40Ni5Co10Mn15Zn20Sn10
+Predicted d-band center : -3.245 eV
+
+Target Composition : Cu35Ni20Co15Zn20Sn10
+Predicted d-band center : -3.301 eV
